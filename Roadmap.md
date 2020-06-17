@@ -1,0 +1,8 @@
+- Tuần 1: Tìm hiều MySQL, RabbitMQ, Memcache, HAProxy, Keepalive
+- Tuần 2: Tìm hiểu tổng quan Openstack, object storage vs block storage
+- Tuần 3-4: Keystones Glance - Cinder (object storage vs block storage)
+- Tuần 5: Nova
+- Tuần 6: Network
+- Tuần 7: Dashboard.
+- Tuần 8: Setup 1 cụm Openstack đủ các thành phần và gồm 2 conntroller trở lên, có thể scale.
+- Tuần 9: High Available, Live migrate, build images, Monitoring in Openstack

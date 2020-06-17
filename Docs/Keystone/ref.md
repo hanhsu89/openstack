@@ -1,0 +1,3 @@
+- [https://docs.openstack.org/keystone/pike/admin/cli-manage-projects-users-and-roles.html](https://docs.openstack.org/keystone/pike/admin/cli-manage-projects-users-and-roles.html)
+- [https://docs.openstack.org/keystone/pike/admin/identity-performance.html](https://docs.openstack.org/keystone/pike/admin/identity-performance.html)
+- [https://docs.openstack.org/newton/install-guide-ubuntu/keystone-openrc.html](https://docs.openstack.org/newton/install-guide-ubuntu/keystone-openrc.html)
